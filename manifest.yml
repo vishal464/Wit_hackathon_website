@@ -1,0 +1,7 @@
+---
+applications:
+- buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
+  host: e-waste-fgen0843485160
+  name: e-waste-fgen0843485160
+  memory: 64M
+  stack: cflinuxfs2
