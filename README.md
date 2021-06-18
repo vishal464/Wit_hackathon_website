@@ -20,7 +20,18 @@ A project designed to reduce the burden on the environment.
   <p>Our idea is to launch an eCommerce platform where the people can register and give away their e-waste / unused or damaged electronic materials in exchange of money and/(or) credit points.These credit points can be redeemed in the partnered websites for their services.Further we sell recylced products directly from companies on the website. This is to encourage circular economy in the community.</p>  
  
  <h5>Demo Video</h5>
-  <p>Here is the video explaining our project in brief.</p>
+  <p>Here is the video explaining our project in brief.
+<br> Part 1:[introduction] (https://user-images.githubusercontent.com/65076965/122602658-da397a00-d090-11eb-9ba6-1bc69311ee73.mp4)
+<br> Part 2:[solution](https://user-images.githubusercontent.com/65076965/122603615-3e107280-d092-11eb-8560-950d3b52d2c4.mp4)
+
+
+
+
+</p>
+
+
+
+
  
  <h5>The architecture</h5>
   <p>Given below is the architecture of the project:</p>
