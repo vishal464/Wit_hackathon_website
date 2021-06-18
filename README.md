@@ -21,17 +21,10 @@ A project designed to reduce the burden on the environment.
  
  <h5>Demo Video</h5>
   <p>Here is the video explaining our project in brief.
-<br> Part 1: Introduction (https://user-images.githubusercontent.com/65076965/122602658-da397a00-d090-11eb-9ba6-1bc69311ee73.mp4)
-<br> Part 2:Solution (https://user-images.githubusercontent.com/65076965/122603615-3e107280-d092-11eb-8560-950d3b52d2c4.mp4)
-
-
-
+<br> Part 1:! [Introduction] (https://user-images.githubusercontent.com/65076965/122602658-da397a00-d090-11eb-9ba6-1bc69311ee73.mp4)
+<br> Part 2:! [Solution] (https://user-images.githubusercontent.com/65076965/122603615-3e107280-d092-11eb-8560-950d3b52d2c4.mp4)
 
 </p>
-
-
-
-
  
  <h5>The architecture</h5>
   <p>Given below is the architecture of the project:![Architecture](https://user-images.githubusercontent.com/65076965/122605413-0a831780-d095-11eb-87f7-b0bd68aebcac.jpeg)
@@ -39,8 +32,8 @@ A project designed to reduce the burden on the environment.
   
   <h5>Roadmap</h5>
   <p>Here is the solution Roadmap:
-  <br> Stage 1:![Pre Work](https://user-images.githubusercontent.com/65076965/122604569-c9d6ce80-d093-11eb-897a-239bc25a508e.jpg)
-  <br>Stage 2:![Deploying static Website](https://user-images.githubusercontent.com/65076965/122605112-a1030900-d094-11eb-82dd-2da3e7000623.png)
+  <br> Stage 1:! [Pre Work] (https://user-images.githubusercontent.com/65076965/122604569-c9d6ce80-d093-11eb-897a-239bc25a508e.jpg)
+  <br>Stage 2:! [Deploying static Website] (https://user-images.githubusercontent.com/65076965/122605112-a1030900-d094-11eb-82dd-2da3e7000623.png)
 
   <br>Stage 3:![Deploying to end user](https://user-images.githubusercontent.com/65076965/122605160-b2e4ac00-d094-11eb-95b1-b26078e7038e.png)
 
