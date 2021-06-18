@@ -1,15 +1,16 @@
 # E-Waste Management System
-Contents
-  What's the problem?
-  How can technology help?
-  The idea
-  Demo video
-  The architecture
-  Project roadmap
-  Live demo
-  Built with
+A project designed to reduce the burden on the environment.
+##Contents
+  *What's the problem?
+  *How can technology help?
+  *The idea
+  *Demo video
+  *The architecture
+  *Project roadmap
+  *Live demo
+  *Built with
   
- #Whats the problem?
+##Whats the problem?
   In India, the quantity of “e-waste” or electronic waste has now become a major problem. Disposal of e-waste is an emerging global environmental and public health issue, as this waste has become the most rapidly growing segment of the formal municipal waste stream in the world.(1) E-waste or Waste Electrical and Electronic Equipment (WEEE) are loosely discarded, surplus, obsolete, broken, electrical or electronic devices.(2) In India most of the waste electronic items are stored at households as people do not know how to discard them. This ever-increasing waste is very complex in nature and is also a rich source of metals such as gold, silver, and copper, which can be recovered and brought back into the production cycle.
  #How can the technology help?
   The technology can help by making it easier for users to dispose the e-waste materials through proper channels.This not only eases waste management process but also helps in generating employment for a lot of people.
